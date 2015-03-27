@@ -40,7 +40,7 @@ ul li:hover ul {
     <div id="wrapper">
 
         <!-- Sidebar -->
-        <div id='sidebar-wrapper'>
+		 <div id='sidebar-wrapper'>
             <ul class='sidebar-nav'>
                 <li class='sidebar-brand'>
                     <a href='index.html'>
@@ -86,7 +86,7 @@ ul li:hover ul {
                 </li>
             </ul>
 
-        </div>  
+        </div>
         <!-- /#sidebar-wrapper -->
 
         <!-- Page Content -->
@@ -97,27 +97,28 @@ ul li:hover ul {
 				<br>
 				 <div class="row">
                     <div class="col-lg-4">
-					<img src="img/fatwani.jpg">
+					<img src="img/panda.jpg">
                     </div>
 					 <div class="col-lg-8">
- 					<h1>Kartikeya Fatwani</h1>
-                    <h2>Candidate for General Secretary Technology, TSG</h2>
-					<h3>MS Hall of Residence</h3>
-					<h3>Biotechnology</h3>
+ 					<h1>Gourav Panda</h1>
+                    <h2>Candidate for General Secretary Social and Cultural, TSG</h2>
+					<h3>RP Hall of Residence</h3>
+					<h3>Mining Engineering (Dual)</h3>
 					<h3>From New Delhi</h3>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-lg-12">
 						<br>
-                        <h2>Proposals <a  target="_blank" href="http://www.scholarsavenue.org/news/critique-kartikeya-fatwani-candidate-for-general-secretary-technology-2015-16/">[Read critique]</a></h2>
-                        <h3>1. Technology Programming Society</h3>
-						<p><b>Overview and Scope : </b>I propose to establish a Technology Programming Society for the benefit of the numerous students interested in learning coding across all the years. Programming and its related facets have become the need of the hour. The number of opportunities available to the students with a good knowledge of programming is growing at a steeper rate than ever. This society will help foster the interest of students in coding and will provide them numerous opportunities to learn and improve their programming skills in various areas.</p>
-						<p><b>Activities : </b>
+                        <h2>Proposals  target="_blank" <a href="http://www.scholarsavenue.org/news/critique-gourav-panda-candidate-for-social-and-cultural-2015-16/">[Read critique]</a></h2>
+                        <h3>1. Freshers' Weekend</h3>
+						<p><b>Overview : </b>My First proposal is to organize a fresher’s weekend in which we will be having the fresher’s introductory seminars of all the societies under social and cultural genre. They will also be given an overview of The General Championship. Other than this, they will be given a glimpse about Spring Fest and its working. The interactive seminars will be followed by various events.</p>
+						<p><b>Why and how is it necessary?</b>
 									<ul>
-									<li>Social Cell shall be organizing various social events in the campus and this shall be done in association with various NGOs which will be contacted regularly.</li>
-									<li>The Social Cell will also provide the various NGOs a platform to display to the students and faculty at IIT Kharagpur the work which they are doing for the society.</li>
-									<li>The Social Cell shall also, as per the requirements of concerned NGOs, arrange for volunteers to work for the NGOs as social internships. ALL the expenses will be borne by the NGO.</li>
+									<li>Most of the gymkhana societies organize their own fresher’s introductory programs to tell the fresher’s about their society and they also organize their selections on their own at different dates. The dates often clash and people are unable to attend the introductory seminar of different societies. Freshers don’t know about the General Championships, until seniors tell them and this results in a low participation of fresher’s in General Championship.
+
+Apart from that the introductory seminars, cultural activities taking place in the next two days will serve as an ice breaker for the first years that are new to the institute.</li>
+									
 </ul>
 
 						</p>
@@ -126,12 +127,16 @@ ul li:hover ul {
  
 
 
- <h3>2. Information Portal for GC</h3>
-						<p><b>Overview and Scope : </b>I propose to introduce an information dissemination portal regarding the events held under the banner of Technology General Championships so that all the students at IIT Kharagpur especially the post graduate students and research scholars of this institute. This portal will be the first source of information regarding the required know-how of the various events, timeline and schedule of the events along with proper discussion forums for doubt clearance related to the events of Technology General Championship.</p>
+ <h3>2. Transportation during Inter-Hall events</h3>
+						<p><b>Overview  : </b>My second proposal is to provide transportation during various inter hall events. It has been observed that the Halls of Residence generally face problems in transporting sets and instruments from the respective halls to the event venues, thus I propose to provide Institute transport during Inter-Hall Dramatics Events and Entertainment Group events to ensure safe procurement of Sets and Instruments.</p>
+						
+
+<h3>3. Accommodation Portal for SF</h3>
+						<p><b>Overview : </b>My third proposal is to launch an accommodation portal for Spring Fest using which out-station participants can choose and confirm their on campus-accommodation online.</p>
+						<p><b>Operation : </b>
+									Since, Spring Fest has started accepting payments online in advance. It is possible for Spring Fest to allot common rooms of various halls of residences in advance. For this, Spring Fest will launch an online accommodation portal where the participants who have already paid the registration fees can give their preferences from the available accommodation sites. On a first-come-first basis, Spring Fest will do the allotment for the same. After reaching IIT Kharagpur, out station participants will have to produce a print of accommodation slip which will be generated on the portal and can do away with the waiting they have to do in long queue. Only people who are doing on-spot registration will have to be in the queue.
 						</p>
 
-<h3>3. Webinar Series for Kshitij</h3>
-						<p><b>Overview : </b>I propose to introduce a webinar series in Kshitij so that those personalities who could not be physically present during Kshitij at IIT Kharagpur could still share their views and opinions and also motivate the youth of IIT Kharagpur with their experience. The Webinar series will also generate some interest amongst the students of IIT Kharagpur towards Kshitij which has been on a decline for the past few years.</p>
 
                     </div>
                 </div>
