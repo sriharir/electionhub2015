@@ -135,27 +135,27 @@ body {
 <script >
 $(function(){
   $("#pieChart").drawPieChart([
-    { title: "Atal A Agarwal",              value : 3000,  color: "#2C3E50" },
-    { title: "Ketan Ingle",    value: 2500,   color: "#fe4400" }
+    { title: "Atal A Agarwal",              value : 4063,  color: "#2C3E50" },
+    { title: "Ketan Ingle",    value: 1946,   color: "#fe4400" }
   ]);
  $("#pieChart2").drawPieChart([
-    { title: "Tanveer Shaikh",              value : 1000,  color: "#2C3E50" },
-    { title: "Palak Goyal",    value: 1000,   color: "#fe4400" },
-	{ title: "Bibhu Agarwal",          value:  1000,   color: "#018ab6" },
-    { title: "Kartikeya Fatwani", value : 1000,   color: "#fff100" }
+    { title: "Tanveer Shaikh",              value : 2787,  color: "#2C3E50" },
+    { title: "Palak Goyal",    value: 3258,   color: "#fe4400" },
+	{ title: "Bibhu Agarwal",          value:  2270,   color: "#018ab6" },
+    { title: "Kartikeya Fatwani", value : 2310,   color: "#fff100" }
   ]);
 
 $("#pieChart3").drawPieChart([
-   { title: "Ayudh Dutta",    value: 1000,   color: "#fe4400" },
-	{ title: "Gaurav Panda",          value:  1000,   color: "#018ab6" },
-    { title: "Vivek Bhutra", value : 1000,   color: "#fff100" }
+   { title: "Ayudh Dutta",    value: 3875,   color: "#fe4400" },
+	{ title: "Gaurav Panda",          value:  3282,   color: "#018ab6" },
+    { title: "Vivek Bhutra", value : 3037,   color: "#fff100" }
   ]);
 
 $("#pieChart4").drawPieChart([
-    { title: "Gaurav Shenoy",              value : 1000,  color: "#2C3E50" },
-    { title: "Sanket Mandal",    value: 1000,   color: "#fe4400" },
-	{ title: "Shubham Patil",          value:  1000,   color: "#018ab6" },
-    { title: "Prateek Jain", value : 1000,   color: "#fff100" }
+    { title: "Gaurav Shenoy",              value : 2842,  color: "#2C3E50" },
+    { title: "Sanket Mandal",    value: 3573,   color: "#fe4400" },
+	{ title: "Shubham Patil",          value:  1740,   color: "#018ab6" },
+    { title: "Prateek Jain", value : 2354,   color: "#fff100" }
   ]);
 });
 
@@ -393,7 +393,7 @@ $("#pieChart4").drawPieChart([
 <h2 style="color:white">Palak Goyal</h2></center>
 <center class="candid3"><h2 style="color:grey">GSec Social&Cultural<br></h2>
 <h2 style="color:white">Ayudh Datta</h2>
-<h2 style="color:white"></h2>Vivek Bhutra</center>
+<h2 style="color:white">Gaurav Panda</h2></center>
 <center class="candid4"><h2 style="color:grey">GSec Sports<br></h2>
 <h2 style="color:white">Gaurav Shenoy</h2>
 <h2 style="color:white">Sanket Mandal</h2></center>
